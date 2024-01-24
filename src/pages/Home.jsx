@@ -1,4 +1,4 @@
-import Homepage from "../components/Homepage/Layouts/Homepage";
+import Homepage from "/components/Homepage/Layouts/Homepage";
 
 function Home() {
 	return (

@@ -1,16 +1,16 @@
-import ButtonHome from "../Elements/ButtonHome";
+import ButtonHome from "/Elements/ButtonHome";
 import { motion } from "framer-motion";
 
 function Homepage() {
 	return (
 		<section className="mx-auto w-3/4 lg:w-1/2 h-screen flex flex-col items-center justify-center">
 			<img
-				src="../../../../src/assets/img/love.png"
+				src="/src/assets/img/love.png"
 				alt=""
 				className="absolute h-screen lg:w-screen max-w-full object-top hidden md:block"
 			/>
 			<img
-				src="../../../../src/assets/img/love_mobile.png"
+				src="/src/assets/img/love_mobile.png"
 				alt=""
 				className="absolute h-screen lg:w-screen max-w-sm object-top md:hidden"
 			/>

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import dataCard from "../Data.jsx";
+import dataCard from "/Data.jsx";
 import { motion } from "framer-motion";
 
 function Deeptalk() {
