@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
-import Home from "/pages/Home";
-import Deeptalk from "/pages/Deeptalk";
+import Home from "./pages/Home";
+import Deeptalk from "./pages/Deeptalk";
 
 export default function App() {
 	return (
